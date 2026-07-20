@@ -1,5 +1,3 @@
-# Python-For-AI
-A beginner-friendly Python repository covering core concepts, data structures, OOP, and advanced topics essential for AI, Machine Learning, and Generative AI.
 # 🐍 Python-For-AI
 
 A comprehensive Python learning repository designed for aspiring **AI Engineers, Data Scientists, Machine Learning Engineers, and Generative AI Developers**.
